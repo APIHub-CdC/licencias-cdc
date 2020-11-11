@@ -1,7 +1,7 @@
 # licencias-cdc
 
 
-Aquí se contiene los siguientesa documentos:
+Aquí se contiene los siguientes documentos:
 
 
 * **CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN** 
