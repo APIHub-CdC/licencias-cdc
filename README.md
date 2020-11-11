@@ -5,8 +5,8 @@ Aquí se contiene los siguientesa documentos:
 
 
 * **CONDICIONES DE USO, REPRODUCCIÓN Y DISTRIBUCIÓN** 
-	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/English/License.txt)
-	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/Spanish/Licencia.txt)
+	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/English/License.txt)
+	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/English/Notice.txt)
 * **TÉRMINOS Y CONDICIONES**
-	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/English/Notice.txt)
-	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/Spanish/Terminos_y_condiciones.txt)
+	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/Spanish/Licencia.txt)
+	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/Spanish/Terminos_y_condiciones.txt)
