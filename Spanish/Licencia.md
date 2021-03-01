@@ -1,4 +1,4 @@
-Términos y condiciones.
+# Términos y condiciones.
  
 
 Estos TÉRMINOS Y CONDICIONES DE USO DE SERVICIOS API en lo sucesivo el “Contrato” se formalizan entre Usted y Círculo de Crédito de acuerdo a lo establecido en el presente Contrato para el uso de esta página http://developer.circulodecredito.com.mx, en adelante el Sitio y/o Portal API HUB. Usted acepta y reconoce la validez del presente en nombre y representación de su Empresa, garantizando que tiene facultades suficientes y por tanto plena capacidad legal para obligarse mediante la aceptación del Contrato.
