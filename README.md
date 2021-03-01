@@ -8,5 +8,5 @@ Aquí se contiene los siguientes documentos:
 	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/English/License.md)
 	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/Spanish/Licencia.md)
 * **TÉRMINOS Y CONDICIONES**
-	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/English/Notice.txt)
-	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/Spanish/Terminos_y_condiciones.txt)
+	- *Inglés* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/English/termsandconditions.md)
+	- *Español* - [ver aquí](https://github.com/APIHub-CdC/licencias-cdc/blob/master/Spanish/terminosycondiciones.md)
